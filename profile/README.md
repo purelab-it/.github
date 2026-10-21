@@ -16,16 +16,6 @@ Based in **Milan and Treviglio, Italy**, we work on projects that connect softwa
 - **Cloud & systems** — Infrastructure, cloud migration, IT support and reliable system integration.
 - **Digital product design** — Accessible, intuitive interfaces shaped by real user needs.
 
-## Selected work
-
-Our public project portfolio illustrates how we bring design and engineering together:
-
-- **[Arena — Interactive Goggle Selector](https://www.purelab.it/en/work/arena-interactive-custom-solution/)** — A guided product-selection experience delivered through in-store interactive kiosks.
-- **[KOO — Sunglasses Finder](https://www.purelab.it/en/work/sunglasses-finder-by-koo-discover-your-perfect-sports-sunglasses/)** — An interactive product finder integrated with an e-commerce catalog, built with Vue.js and WooCommerce.
-- **[Giorgio Armani — Virtual Experiences](https://www.purelab.it/en/work/giorgio-armani-virtual-try-on-giorgio-armani/)** — Virtual tour and try-on experiences.
-
-Explore more projects on our [website](https://www.purelab.it/en/work/).
-
 ## How we work
 
 **Understand the problem. Design with purpose. Engineer for the long term.**
