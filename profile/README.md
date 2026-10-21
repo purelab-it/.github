@@ -24,7 +24,7 @@ We select technologies based on the problem to solve, with an emphasis on mainta
 
 ## On GitHub
 
-This organization hosts repositories and technical resources that Purelab chooses to share publicly. Client work and proprietary systems are not necessarily represented here.
+Our GitHub organization is a home for engineering resources, reusable components, experiments and open-source contributions that we choose to share with the developer community.
 
 ## Connect
 
