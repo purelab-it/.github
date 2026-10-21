@@ -1,46 +1,43 @@
 # Purelab
 
-### Building meaningful digital experiences through technology, design, and innovation.
+### Software engineering, design and infrastructure for meaningful digital experiences.
 
-**Purelab** is an Italian technology company that helps organizations turn complex challenges into reliable, scalable digital solutions. We bring together software engineering, systems integration, IT infrastructure, and digital design to build technology that creates real business value.
+**Purelab** is an Italian technology company building custom software, web applications and integrated digital solutions. We combine engineering, UX/UI design and infrastructure expertise to turn complex requirements into reliable, scalable products.
 
-Based in **Milan and Treviglio, Italy**, we work with businesses and organizations across industries, combining practical technical expertise with a thoughtful, collaborative approach.
+Based in **Milan and Treviglio, Italy**, we work on projects that connect software, people and physical experiences.
 
-🌐 **Website:** [purelab.it](https://www.purelab.it/en/) · ✉️ **Contact:** [info@purelab.it](mailto:info@purelab.it)
+[Website](https://www.purelab.it/en/) · [Our work](https://www.purelab.it/en/work/) · [Contact](mailto:info@purelab.it)
 
-## What we do
+## What we build
 
-- **Custom software development** — Tailored web applications, business platforms, APIs, and integrations designed around real operational needs.
-- **Web & mobile experiences** — Websites, e-commerce platforms, progressive web apps (PWAs), mobile applications, and interactive digital experiences.
-- **AI integration & automation** — Practical applications of AI to streamline workflows, connect systems, analyze information, and improve user experiences.
-- **System integration** — Connections between ERP, CRM, legacy systems, external services, and physical devices.
-- **Cloud & IT infrastructure** — Cloud migration, infrastructure management, cybersecurity, technical support, and business continuity.
-- **UI/UX & digital design** — Human-centered interfaces that make complex technologies intuitive and accessible.
+- **Custom software & web applications** — Business platforms, interactive applications, APIs and integrations.
+- **Connected experiences** — Interactive kiosks, product finders and software that connects digital interfaces with physical environments.
+- **AI & automation** — AI integrations and tailored workflows where they bring practical value.
+- **Cloud & systems** — Infrastructure, cloud migration, IT support and reliable system integration.
+- **Digital product design** — Accessible, intuitive interfaces shaped by real user needs.
 
-## Technologies & engineering
+## Selected work
 
-Our development work spans technologies and architectures selected to fit each project's requirements, including:
+Our public project portfolio illustrates how we bring design and engineering together:
 
-`PHP` · `.NET` · `JavaScript` · `Web APIs` · `PWA` · `WebSocket` · `Event-driven systems` · `Cloud infrastructure` · `AI integrations`
+- **[Arena — Interactive Goggle Selector](https://www.purelab.it/en/work/arena-interactive-custom-solution/)** — A guided product-selection experience delivered through in-store interactive kiosks.
+- **[KOO — Sunglasses Finder](https://www.purelab.it/en/work/sunglasses-finder-by-koo-discover-your-perfect-sports-sunglasses/)** — An interactive product finder integrated with an e-commerce catalog, built with Vue.js and WooCommerce.
+- **[Giorgio Armani — Virtual Experiences](https://www.purelab.it/en/work/giorgio-armani-virtual-try-on-giorgio-armani/)** — Virtual tour and try-on experiences.
 
-We focus on **maintainability, security, interoperability, performance, and scalability** — from initial discovery through deployment and ongoing evolution.
+Explore more projects on our [website](https://www.purelab.it/en/work/).
 
-## Our approach
+## How we work
 
-**Understand the challenge. Design with purpose. Build to last.**
+**Understand the problem. Design with purpose. Engineer for the long term.**
 
-We start by understanding the people, processes, and systems behind each project. We then design and develop solutions that work within real-world constraints, integrate with existing environments, and remain useful as needs evolve.
+We select technologies based on the problem to solve, with an emphasis on maintainability, performance, security and interoperability. Our team works across development, infrastructure and design to support solutions from concept through deployment and evolution.
 
-This GitHub organization is a space for Purelab's engineering work, technical resources, and repositories that we choose to share publicly.
+## On GitHub
 
-## Connect with us
+This organization hosts repositories and technical resources that Purelab chooses to share publicly. Client work and proprietary systems are not necessarily represented here.
 
-Have a project in mind, or want to learn more about our work?
+## Connect
 
-- **Website:** https://www.purelab.it/en/
-- **Email:** info@purelab.it
-- **Locations:** Milan & Treviglio, Italy
-
----
-
-*Purelab — Technology in service of ideas.*
+**Website:** [purelab.it](https://www.purelab.it/en/)  
+**Email:** [info@purelab.it](mailto:info@purelab.it)  
+**Locations:** Milan & Treviglio, Italy
